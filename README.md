@@ -18,7 +18,7 @@ RealBot is an AI-powered Telegram bot that chats with users using **Gemini AI** 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/RealBot.git
+git clone https://github.com/Tirth-Babariya/RealBot.git
 cd RealBot
 ```
 
